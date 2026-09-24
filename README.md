@@ -1,6 +1,6 @@
-# TIRHON Auto Limited
+# TIRHON AUTOS LTD
 
-Marketing and growth documentation for TIRHON Auto Limited, the Kenya-side vehicle sourcing company that helps Kenyan buyers import vehicles from Japan.
+Marketing and growth documentation for TIRHON AUTOS LTD, the Kenya-side vehicle sourcing company that helps Kenyan buyers import vehicles from Japan.
 
 ## Contents
 

@@ -1,21 +1,23 @@
-# TIRHON — Brand Concept, Purpose, Mission, Vision, Values & Logo Brief
+# TIRHON AUTOS LTD — Brand Concept, Purpose, Mission, Vision, Values & Logo Brief
 
 **Prepared by:** CMO / Growth (Markato side)
 **Date:** 24 September 2026
-**Status:** Draft v1 for approval by the Kenya side (Ronidah, Sally). Nothing goes to the designer until Section 0 is confirmed.
+**Status:** v2. Legal name and name story confirmed by Ronidah on 24 Sep 2026. Ready to send to the designer once domains and handles are registered.
 
 ---
 
-## 0. Confirm before anything is designed
+## 0. Confirmed facts and remaining checks
 
-| Item | Why it matters | Status |
-|---|---|---|
-| **Exact registered name.** The Kenya side wrote "TIRHON AUTOS LTD"; our working brief says "TIRHON Auto Limited". | The logo, signage, invoices, WhatsApp name and Meta page must match the Business Registration Service certificate exactly, or customers will doubt the company is real. | **OPEN — Kenya side to send a photo of the registration certificate.** |
-| **Meaning of the name "TIRHON".** | If there is a story (a person, a place, a word), it becomes the brand narrative and can guide the logo. If there is none, we build a story around what the company does and do not invent an origin. | **OPEN — ask Ronidah.** |
-| **Domain and handles.** Checked 24 Sep 2026: no DNS records for tirhonautos.co.ke, tirhonauto.co.ke, tirhonautos.com, tirhonauto.com, tirhon.co.ke. | No record is a good sign, not proof. Register the matching .co.ke and .com the same day the name is confirmed, plus @tirhonautos (or @tirhonauto) on Instagram, Facebook, TikTok, YouTube. | **OPEN — Markato to register once name is confirmed.** |
-| **Trademark search.** | A quick search at the Kenya Industrial Property Institute (KIPI) avoids building a brand we later have to rename. | **OPEN — Kenya side, with a lawyer or agent.** |
+| Item | Status |
+|---|---|
+| **Legal name: TIRHON AUTOS LTD.** Confirmed by Ronidah, 24 Sep 2026. All logos, signage, invoices, the WhatsApp Business name and the Meta page use this exact name. | **CONFIRMED** |
+| **Name story.** "Ti" from Tiannah (Sally's child) and "rhon" from Ronidah. Chosen because the founders wanted something unique. Confirmed by Ronidah. | **CONFIRMED** — see Section 1a |
+| **Founders / sellers.** Ronidah and Sally. Both sell. | **CONFIRMED** |
+| **Proof policy.** Only vehicles sold by TIRHON AUTOS LTD are used as proof. BestCars254 is not referenced, shown or implied anywhere in TIRHON's brand or marketing. | **CONFIRMED** — see Section 8 |
+| **Domains and handles.** Checked 24 Sep 2026: no DNS records for tirhonautos.co.ke, tirhonautos.com, tirhon.co.ke. No record is a good sign, not proof. Register tirhonautos.co.ke and tirhonautos.com, and @tirhonautos on Instagram, Facebook, TikTok and YouTube, now. | **OPEN — Markato, this week** |
+| **Trademark search** at the Kenya Industrial Property Institute (KIPI). | **OPEN — Kenya side, with an agent** |
 
-Recommendation on naming style once the legal name is confirmed: legal name on documents; **"TIRHON"** alone as the brand mark, with "Autos Ltd" (or "Auto Limited") as a secondary line. Customers will say "TIRHON". Design for that.
+Naming style: legal name on documents; **"TIRHON"** alone as the brand mark, with "AUTOS LTD" as a secondary line. Customers will say "TIRHON". Design for that.
 
 ---
 
@@ -27,11 +29,27 @@ That sentence is the brand. Everything below serves it.
 
 ---
 
+## 1a. The name and why it matters to the brand
+
+TIRHON is built from two people: **Ti** from Tiannah, Sally's child, and **rhon** from Ronidah. It is a family name, made by the two founders, for a company they intend to keep.
+
+This is worth telling customers, carefully and briefly, because it does three things no competitor can copy:
+
+1. **It humanises the company.** A name made from a child and a founder says "real people, building something to last", which is precisely the doubt a first-time importer has about an online car company.
+2. **It signals long-term commitment.** You do not name a company after your child and then vanish with a deposit. That is the unspoken message, and it should stay unspoken; the story does the work.
+3. **It gives the logo a true idea:** two parts joined into one whole. That maps naturally onto the service (Japan and Kenya, joined) and onto the mark (see concept direction 2 in the logo brief).
+
+How to use it: one paragraph on the website's About section, one short "why we are called TIRHON" video with Ronidah and Sally, and one line in the founders' bios. Not in ads, not in every post. Tiannah's image is never used in marketing unless Sally explicitly decides so; the story works with the name alone.
+
+---
+
 ## 2. Purpose (why we exist)
 
-> **To make importing a car from Japan something a Kenyan family or business can do with confidence.**
+> **To make importing a car from Japan something a Kenyan family or business can do with confidence, and even enjoy.**
 
-Kenyans lose money and sleep importing cars: wrong cars, hidden costs, silent sellers, disappearing deposits. TIRHON exists to remove that fear. Not by promising the cheapest car, but by making every step visible.
+Kenyans lose money and sleep importing cars: wrong cars, hidden costs, silent sellers, disappearing deposits. TIRHON exists to remove that fear and replace it with a journey the customer looks forward to: choosing the car, watching it win at auction, following it across the ocean, collecting it at Mombasa. Not by promising the cheapest car, but by making every step visible and every step a good experience.
+
+The founders added a second half to this purpose: **the people who work with TIRHON should be happy too.** A team that enjoys the work treats customers well; a customer who enjoyed the journey refers the next one. Both halves are the same business decision.
 
 ---
 
@@ -66,7 +84,9 @@ Values only matter if the sales team can be judged against them on WhatsApp. Eac
 | **Trust is earned with proof** | We show documents, deliveries, the office and the team. Deposit only after the auction is won in the customer's name; balance only against the Bill of Lading. | "Trust me", asking for money before evidence, stock claims for cars we have not checked that week. |
 | **Customer first, not car first** | We start from what the customer needs and their real budget, and we say honestly when a request does not make sense (for example a pre-2019 car). | Pushing a car because we have it, over-promising timelines, upselling beyond budget. |
 | **Reliability** | We answer within minutes in business hours. We do what we said, on the date we said. | Unanswered messages, missed follow-ups, changing terms after agreement. |
-| **Care beyond the sale** | The relationship ends when the customer is happy on the road, not when the deposit clears. Clearance guidance, delivery coordination, a check-in after handover. | Disappearing after the balance is paid. |
+| **An enjoyable journey** | Every milestone is a moment worth sharing: the auction win, the inspection pass, the vessel departing, the arrival. We send the photo before the customer asks for it. Handover is a small celebration, and the customer is invited to share it. | Treating the 45 days as dead time, dry status updates, disappearing after the balance is paid. |
+| **Care beyond the sale** | The relationship ends when the customer is happy on the road, not when the deposit clears. Clearance guidance, delivery coordination, a check-in after handover. | Ignoring a customer once paid. |
+| **A happy team** | Clear roles, a fair share of the upside, and a process that lets Ronidah and Sally sell with confidence instead of improvising. Marketing gives sales what it needs; sales tells marketing what customers say. | Blame between marketing and sales; unrealistic promises made to customers that the team then has to defend. |
 
 A useful internal test for any message, post or ad: **"Would we be comfortable if the customer showed this to a lawyer and to their mother?"**
 
@@ -117,10 +137,12 @@ For Kenyan professionals and business owners who want a specific 2019-or-newer v
 
 ## 8. Brand architecture (how the companies appear to the customer)
 
-- **TIRHON** is the only brand the customer sees. Website, WhatsApp, social, invoices, signage.
-- **The Japan buying partner** is described as exactly that, by role, and shown on camera as proof. The partner's company name appears only in contracts and when a customer asks.
+- **TIRHON AUTOS LTD** is the only brand the customer sees. Website, WhatsApp, social, invoices, signage, handover.
+- **The Japan buying partner** is described as exactly that, by role, and shown on camera as proof of the sourcing process. The partner's company name appears only in contracts and when a customer asks.
 - **Markato** never appears to customers. It is the marketing and investment partner.
-- **BestCars254** is not used going forward for TIRHON customers. Past deliveries under that name may be shown as "vehicles delivered to Mombasa through our Japan buying partner", with customer permission, and only if that is accurate.
+- **BestCars254 is not mixed with TIRHON in any way.** No shared photos, testimonials, delivery records, social accounts, phone numbers or wording. TIRHON's proof library starts at zero and is built from TIRHON's own customers, beginning with the first one. Sections 4 and 7 of the marketing plan (proof weakness and Founding Customers) reflect this.
+
+**Consequence for launch:** because we cannot borrow proof, the first five TIRHON customers matter more than the next fifty. Treat them as **founding customers**: a small, honest thank-you (for example a contribution toward first service or delivery to their door) in exchange for permission to document their journey from first message to handover. Those five journeys become the proof library that every later ad runs on.
 
 ---
 
@@ -133,10 +155,11 @@ Design a wordmark-led identity for **TIRHON**, a Kenyan vehicle-sourcing company
 - Customers are Kenyan adults, 28–55, mostly on Android phones, deciding whether to send a large sum of money to a company they found online. The logo's job is to look like a real, established company at 40 pixels wide.
 - The market is full of red-and-black "car deals" logos with chrome, swooshes, speed lines and silhouettes of a Land Cruiser. We want the opposite of that noise.
 - The name "TIRHON" is short, uncommon and has no existing associations. That is an asset: it can own a look.
+- The name is made of two parts joined: "Ti" (Tiannah, a founder's child) and "rhon" (Ronidah, a founder). The designer may use "two parts joined into one" as the underlying idea. The designer must not use a child's image, a heart, or anything that reads as a family or baby brand; the company sells vehicles to adults.
 
 ### 9.3 Concept directions (designer explores two or three, we pick one)
 1. **The Clear Wordmark.** TIRHON in a confident geometric or humanist sans-serif, custom-spaced, with one subtle detail (for example a bar or a notch in the O suggesting a route or a road) and no icon. Rationale: the most "established company" look; works everywhere.
-2. **The Bridge / Route mark.** A minimal symbol suggesting a connection between two points (Japan → Kenya, or a shipping route) that also reads as a "T". Paired with the wordmark. Rationale: expresses the actual service, sourcing and bringing home, without drawing a car.
+2. **The Bridge / Route mark.** A minimal symbol suggesting two points joined (Japan → Kenya, or the two halves of the name) that also reads as a "T". Paired with the wordmark. Rationale: expresses the actual service, sourcing and bringing home, and the name's own story, without drawing a car. **Recommended direction to explore first.**
 3. **The Seal.** A compact badge or monogram (T, or TA) that reads as a stamp of verification, echoing the "proof and documents" promise. Rationale: works well as a WhatsApp avatar and a watermark on vehicle photos and documents.
 
 **Do not draw:** a car silhouette, a wheel, a steering wheel, a speedometer, a Japanese flag or rising sun, a Kenyan flag, chrome, gradients that imitate metal, italic "speed" type, swooshes.
@@ -176,27 +199,21 @@ Design a wordmark-led identity for **TIRHON**, a Kenyan vehicle-sourcing company
 
 ---
 
-## 10. Message to send to the Kenya side for approval (copy-paste ready)
+## 10. Approval status and designer hand-off
 
-> Hi Ronidah, here is the TIRHON brand concept for your approval.
->
-> **Purpose:** to make importing a car from Japan something a Kenyan family or business can do with confidence.
-> **Mission:** we source the right vehicle from Japan for each customer, show the proof before payment, and guide them through every step to delivery in Kenya.
-> **Vision:** to be the most trusted name in Kenya for importing vehicles from Japan.
-> **Values:** transparency, trust earned with proof, customer first, reliability, care beyond the sale.
-> **Promise:** you choose the car, we show you everything, we bring it home.
->
-> Two things I need from your side before the designer starts:
-> 1. A photo of the registration certificate so the logo uses the exact legal name (is it "TIRHON AUTOS LTD"?).
-> 2. Does the name TIRHON have a meaning or story? If yes, we build it into the brand.
->
-> Once confirmed, the logo brief goes to the designer the same day and we should have concepts within a week.
+- Brand concept shared with Ronidah on 24 Sep 2026; legal name and name story confirmed the same day.
+- Ronidah's additions, now built into Sections 2 and 5: the customer journey should be enjoyable, and the people working with TIRHON should be happy.
+- Ronidah's rule, now built into Section 8: BestCars254 is not mixed with TIRHON.
+
+**Message to the designer (copy-paste ready):**
+
+> Hi, here is the brief for TIRHON AUTOS LTD, a Kenyan company that sources and imports vehicles from Japan for customers. Legal name: TIRHON AUTOS LTD. Brand mark: "TIRHON", with "AUTOS LTD" as a secondary line. The full brief is attached (Section 9). Please explore direction 2 (two points joined, reading as a T) first, plus one wordmark-only option. Show each concept as a WhatsApp profile circle, a watermark on a car photo and an invoice header, not only on a white canvas. First concepts in 5 days, please.
 
 ---
 
 ## 11. What this unlocks next
 
-The moment Section 0 is confirmed, in parallel with the designer's work:
+Now, in parallel with the designer's work:
 - Register domains and handles.
 - WhatsApp Business profile set up with the brand name, the greeting and the qualification questions.
 - Landing-page copy written in the brand voice (no logo needed to write it).

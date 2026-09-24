@@ -1,8 +1,8 @@
-# TIRHON Auto Limited — CMO Marketing Audit & Growth Plan
+# TIRHON AUTOS LTD — CMO Marketing Audit & Growth Plan
 
 **Prepared by:** CMO / Growth (Markato side)
 **Date:** 24 September 2026
-**Status:** Version 1 — baseline plan. To be revised weekly against real funnel data.
+**Status:** Version 1.1 — baseline plan. Legal name confirmed as TIRHON AUTOS LTD on 24 Sep 2026. Proof policy: only TIRHON's own sales are used as proof; BestCars254 is not referenced. To be revised weekly against real funnel data.
 
 ---
 
@@ -43,12 +43,12 @@ The biggest opportunity in the next 90 days is not a creative idea. It is **clos
 
 **ASSUMPTION:** TIRHON is at or near launch. There is no live website in this repository, no verified ad account history, and no CRM. I am treating the marketing function as starting from zero. If a page, a Facebook page or an ad account already exists, send me the links and I will re-audit.
 
-**What exists on the Japan side (from the BestCars254 sales playbook, VERIFIED internal):**
+**What exists on the Japan side (from the Japan partner's existing sales process, VERIFIED internal; not referenced in TIRHON marketing):**
 
 - A working sales process: proforma → 30% deposit after the auction is won → auction sheet and photos → balance before shipping against the Bill of Lading → roughly 45 to 50 days from deposit to driving.
 - Known objections, in order: price, delivery time, trust, payment terms.
 - Buyers shop three or more exporters at once. Response speed and photo quality win.
-- Registered Japan company (Ligarefy) and a Kenya contact.
+- A registered Japan buying company and an established export routine.
 
 **Positioning today:** undefined. Right now TIRHON is indistinguishable from the hundreds of "Japan cars, DM for price" pages on Facebook. That is the problem to fix, and it is fixable because the underlying proof exists (real shipments, real documents, a real Kenya office).
 
@@ -102,13 +102,13 @@ In order of strength, each with the proof we need to make it believable.
 Ranked by how much revenue they cost us.
 
 1. **No closed-loop tracking.** No way to say which ad produced a deposit. This blocks every optimisation decision. Fix first.
-2. **No proof library.** Testimonials, delivery photos, documents and customer intros exist in WhatsApp threads, not in a usable, permissioned asset bank.
+2. **No proof library, and none can be borrowed.** TIRHON starts with zero deliveries under its own name, and by decision of the founders no earlier work under other names is used. The first five customers must be documented end to end (see Founding Customers in section 7) because every later ad depends on them. Until then, proof comes from the office, the team, the Japan sourcing process on camera, and sample document types.
 3. **Undefined offer.** "Import from Japan" is a category, not an offer. We need one sentence the sales team, the ads and the page all repeat.
 4. **Response time risk.** Buyers message three exporters at once. If a lead waits two hours, we have lost the comparison. (ASSUMPTION: there is no rota or SLA yet.)
 5. **Landed-cost ambiguity.** If we cannot give a credible on-the-road estimate within one message, the conversation dies on "let me think".
 6. **No brand assets.** No logo system, no photo style, no template for vehicle cards. This makes every post look like every competitor.
 7. **Single-channel dependency.** All demand is planned through Meta. Google Search intent ("import Prado Kenya") is where the highest-intent buyer sits and we are not there.
-8. **Two-company confusion.** If Ligarefy, BestCars254 and TIRHON all appear to a customer, trust drops. The customer must see one brand: TIRHON. Ligarefy appears only as "our Japan buying partner" when asked.
+8. **Two-company confusion.** The customer must see one brand: TIRHON AUTOS LTD. The Japan side appears only as "our Japan buying partner". No other trading name is used or shown.
 
 ---
 
@@ -176,6 +176,8 @@ Why this offer:
 - **Landed-Cost Estimate:** "Send us the car listing you are looking at, anywhere online. We will tell you what it will really cost on the road in Kenya." Captures people already shopping BE FORWARD or SBT.
 - **Model Buyer's Guide download** (Prado, Harrier, CX-5): email capture for the nurture list.
 - **Q4 2019-eligibility campaign** (October only, once verified with KEBS): "2019 vehicles must land before 31 December. Here is the last safe order date."
+
+**Founding Customers (first five sales only):** a small, honest thank-you (for example a contribution toward first service or delivery to the door) in exchange for permission to document the full journey, first message to handover, and a short video testimonial. This is the fastest legitimate way to build a proof library from zero. Decide the amount with finance; state it plainly; do not call it a discount.
 
 **Not recommended:** discounts, "free shipping", "deposit refund guarantees" we have not legally structured.
 
@@ -591,7 +593,8 @@ You have not given me a budget number yet. Below is the allocation logic and two
 - Claim Google Business Profile. Set up Meta Business Manager, Pixel, WhatsApp Business connection, GA4.
 - Mystery-shop 5 competitors with the same Prado request. Log findings.
 - Film day 1: office, team intro, "how the search works", "3 documents before you pay". Japan side films partner intro and one auction search screen recording.
-- Collect 3 customer permissions for testimonials and delivery photos.
+- Prepare the Founding Customer offer and a one-page consent form for documenting the journey.
+- Film generic proof: what an auction sheet, an inspection certificate and a Bill of Lading look like (sample documents with data blurred).
 - **Verify with KEBS:** the exact 2019 cut-off date behaviour for arrivals after 31 Dec 2026 (for the Q4 campaign).
 
 **Week 2 — Build:**
@@ -651,7 +654,7 @@ If we do only these five, we will know within 30 days whether the offer converts
 - A2. KRA duty structure (35% import duty on passenger cars, excise by engine size, VAT 16%, IDF 2.5%, RDL 2%, CRSP-based valuation): KRA "Motor vehicle import duty" page; PwC Worldwide Tax Summaries, Kenya; KRA CRSP update effective July 2025 (Jedca Media).
 - A3. Mandatory pre-shipment inspection / Certificate of Roadworthiness by KEBS-appointed agent (QISJ named for Japan; JEVIC widely referenced): Kenyans.co.ke as above; EveryCar.jp "Pre-Shipment Inspection Explained"; Auto Kenya "QISJ Vehicle Pre-Shipment Inspection". **Note:** sources differ on which agents are currently appointed. Confirm with KEBS before naming an agent in any customer-facing material.
 - A4. Competitor set: BE FORWARD Kenya page; SBT Japan blog "Procedure for Importing a Car from Japan to Kenya"; Car From Japan Kenya page; AA Japan Kenya; carimports.co.ke; carimports254.co.ke; carskenya.co.ke; maridadymotors.com; khushimotors.com; auto-kenya.com.
-- Internal: BestCars254 WhatsApp sales playbook (payment stages, timeline, objection set).
+- Internal: the Japan side's existing WhatsApp sales process (payment stages, timeline, objection set). Used for process design only; not referenced in TIRHON marketing.
 
 ## Appendix B — Open questions for TIRHON (answer these and I will update the plan)
 
