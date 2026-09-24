@@ -102,7 +102,7 @@ In order of strength, each with the proof we need to make it believable.
 Ranked by how much revenue they cost us.
 
 1. **No closed-loop tracking.** No way to say which ad produced a deposit. This blocks every optimisation decision. Fix first.
-2. **No proof library, and none can be borrowed.** TIRHON starts with zero deliveries under its own name, and by decision of the founders no earlier work under other names is used. The first five customers must be documented end to end (see Founding Customers in section 7) because every later ad depends on them. Until then, proof comes from the office, the team, the Japan sourcing process on camera, and sample document types.
+2. **Proof exists but is not yet collected.** Ronidah has personally imported vehicles from Japan many times. That founder experience is TIRHON's opening credibility and must be turned into assets in week 1: photos, documents with data hidden, the exact count of vehicles, and her story on camera. No other trading name is used. Customer proof takes over from the first TIRHON delivery (see Founding Customers in section 7).
 3. **Undefined offer.** "Import from Japan" is a category, not an offer. We need one sentence the sales team, the ads and the page all repeat.
 4. **Response time risk.** Buyers message three exporters at once. If a lead waits two hours, we have lost the comparison. (ASSUMPTION: there is no rota or SLA yet.)
 5. **Landed-cost ambiguity.** If we cannot give a credible on-the-road estimate within one message, the conversation dies on "let me think".
@@ -593,6 +593,7 @@ You have not given me a budget number yet. Below is the allocation logic and two
 - Claim Google Business Profile. Set up Meta Business Manager, Pixel, WhatsApp Business connection, GA4.
 - Mystery-shop 5 competitors with the same Prado request. Log findings.
 - Film day 1: office, team intro, "how the search works", "3 documents before you pay". Japan side films partner intro and one auction search screen recording.
+- Collect Ronidah's own import history: exact number of vehicles imported, photos, documents (data hidden), and a 2-minute on-camera story. This is the launch proof.
 - Prepare the Founding Customer offer and a one-page consent form for documenting the journey.
 - Film generic proof: what an auction sheet, an inspection certificate and a Bill of Lading look like (sample documents with data blurred).
 - **Verify with KEBS:** the exact 2019 cut-off date behaviour for arrivals after 31 Dec 2026 (for the Q4 campaign).

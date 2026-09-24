@@ -2,7 +2,7 @@
 
 **Prepared by:** CMO / Growth (Markato side)
 **Date:** 24 September 2026
-**Status:** v2. Legal name and name story confirmed by Ronidah on 24 Sep 2026. Ready to send to the designer once domains and handles are registered.
+**Status:** v2.1. Legal name and name story confirmed by Ronidah on 24 Sep 2026. **Purpose, mission, vision, values, promise and tagline are a proposal awaiting approval by Ronidah and Sally** (approval message in Section 10). The logo brief goes to the designer only after that approval.
 
 ---
 
@@ -13,7 +13,7 @@
 | **Legal name: TIRHON AUTOS LTD.** Confirmed by Ronidah, 24 Sep 2026. All logos, signage, invoices, the WhatsApp Business name and the Meta page use this exact name. | **CONFIRMED** |
 | **Name story.** "Ti" from Tiannah (Sally's child) and "rhon" from Ronidah. Chosen because the founders wanted something unique. Confirmed by Ronidah. | **CONFIRMED** — see Section 1a |
 | **Founders / sellers.** Ronidah and Sally. Both sell. | **CONFIRMED** |
-| **Proof policy.** Only vehicles sold by TIRHON AUTOS LTD are used as proof. BestCars254 is not referenced, shown or implied anywhere in TIRHON's brand or marketing. | **CONFIRMED** — see Section 8 |
+| **Proof policy.** Proof comes from two sources only: vehicles sold by TIRHON AUTOS LTD, and Ronidah's own import history (she has personally imported vehicles from Japan many times; photos, documents and the story of those imports are TIRHON's founder credibility). BestCars254 is not referenced, shown or implied anywhere. | **CONFIRMED** — see Section 8 |
 | **Domains and handles.** Checked 24 Sep 2026: no DNS records for tirhonautos.co.ke, tirhonautos.com, tirhon.co.ke. No record is a good sign, not proof. Register tirhonautos.co.ke and tirhonautos.com, and @tirhonautos on Instagram, Facebook, TikTok and YouTube, now. | **OPEN — Markato, this week** |
 | **Trademark search** at the Kenya Industrial Property Institute (KIPI). | **OPEN — Kenya side, with an agent** |
 
@@ -140,9 +140,10 @@ For Kenyan professionals and business owners who want a specific 2019-or-newer v
 - **TIRHON AUTOS LTD** is the only brand the customer sees. Website, WhatsApp, social, invoices, signage, handover.
 - **The Japan buying partner** is described as exactly that, by role, and shown on camera as proof of the sourcing process. The partner's company name appears only in contracts and when a customer asks.
 - **Markato** never appears to customers. It is the marketing and investment partner.
-- **BestCars254 is not mixed with TIRHON in any way.** No shared photos, testimonials, delivery records, social accounts, phone numbers or wording. TIRHON's proof library starts at zero and is built from TIRHON's own customers, beginning with the first one. Sections 4 and 7 of the marketing plan (proof weakness and Founding Customers) reflect this.
+- **BestCars254 is not mixed with TIRHON in any way.** No shared photos, testimonials, delivery records, social accounts, phone numbers or wording.
+- **Founder proof.** Ronidah has personally imported vehicles from Japan many times. That experience is TIRHON's opening credibility and it is true, specific and hers: "Our founder has imported [N] vehicles from Japan herself. She built TIRHON to do it for you the way she wished someone had done it for her." Photos, documents (data blurred) and the lessons from those imports are the first proof library. The number N must be counted, not estimated, before it appears anywhere.
 
-**Consequence for launch:** because we cannot borrow proof, the first five TIRHON customers matter more than the next fifty. Treat them as **founding customers**: a small, honest thank-you (for example a contribution toward first service or delivery to their door) in exchange for permission to document their journey from first message to handover. Those five journeys become the proof library that every later ad runs on.
+**Consequence for launch:** founder proof carries the first weeks; customer proof takes over from the first TIRHON delivery. Treat the first five TIRHON customers as **founding customers**: a small, honest thank-you (for example a contribution toward first service or delivery to their door) in exchange for permission to document their journey from first message to handover.
 
 ---
 
@@ -201,9 +202,50 @@ Design a wordmark-led identity for **TIRHON**, a Kenyan vehicle-sourcing company
 
 ## 10. Approval status and designer hand-off
 
-- Brand concept shared with Ronidah on 24 Sep 2026; legal name and name story confirmed the same day.
+- Legal name and name story confirmed by Ronidah on 24 Sep 2026.
 - Ronidah's additions, now built into Sections 2 and 5: the customer journey should be enjoyable, and the people working with TIRHON should be happy.
 - Ronidah's rule, now built into Section 8: BestCars254 is not mixed with TIRHON.
+- **Purpose, mission, vision, values, promise and tagline: awaiting approval by Ronidah and Sally.** The WhatsApp message below is the approval request. Send it as separate bubbles where the blank lines are.
+
+**Approval message for Ronidah and Sally (copy-paste ready):**
+
+> Hi Ronidah and Sally, here is the brand concept for TIRHON AUTOS LTD for your approval. Please read it and tell me what to change. Nothing goes to the designer before you both say yes.
+
+> *Why TIRHON exists (Purpose)*
+> To make importing a car from Japan something a Kenyan family or business can do with confidence, and even enjoy.
+> And the people who work with TIRHON should be happy too.
+
+> *What we do every day (Mission)*
+> We source the right vehicle from Japan for each customer, show them the proof before they pay, and guide them through every step until the car is delivered in Kenya.
+
+> *Where we are going (Vision)*
+> To be the most trusted name in Kenya for importing vehicles from Japan.
+> Not the biggest. Not the cheapest. The most trusted.
+
+> *How we behave (Values)*
+> 1. Transparency: every price is labelled, every car comes with its auction sheet and inspection report, every delay is reported before the customer asks.
+> 2. Trust through proof: deposit only after the auction is won in the customer's name, balance only after the Bill of Lading. We show documents, not promises.
+> 3. Customer first: we start from what the customer needs and their real budget, and we say honestly when a request does not make sense.
+> 4. Reliability: we answer within minutes in business hours and do what we said, when we said.
+> 5. An enjoyable journey: every milestone (auction win, inspection, ship departs, arrival at Mombasa) is a moment we share with the customer. Handover is a small celebration.
+> 6. Care beyond the sale: we stay with the customer until they are happy on the road, and we check in after.
+> 7. A happy team: clear roles, honest promises to customers, and no blame between sales and marketing.
+
+> *Our promise to customers (one line)*
+> You choose the car. We show you everything. We bring it home.
+
+> *Tagline for the logo (please choose one)*
+> A) Sourced from Japan. Supported in Kenya.
+> B) Import your car from Japan, safely.
+> C) The transparent way to import from Japan.
+
+> *About the name*
+> We would like to tell the story of the name (Ti from Tiannah, rhon from Ronidah) once, on the website and in a short founders' video, because it shows TIRHON is built by real people to last. We will never use Tiannah's photo unless Sally decides so. Is that okay with you?
+
+> *About proof*
+> Ronidah, you have imported cars from Japan many times yourself. That experience is TIRHON's strongest proof at the start. Can we use photos and documents from those imports (with personal data hidden), and can you tell me how many vehicles you have imported so we say the exact number?
+
+> Please reply with: 1) approve or what to change, 2) tagline A, B or C, 3) yes/no on the name story, 4) yes/no on using your import photos and the number of vehicles. After that I send the brief to the designer the same day.
 
 **Message to the designer (copy-paste ready):**
 
