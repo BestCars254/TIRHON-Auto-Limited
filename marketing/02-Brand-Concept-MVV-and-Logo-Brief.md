@@ -2,7 +2,7 @@
 
 **Prepared by:** CMO / Growth (Markato side)
 **Date:** 24 September 2026
-**Status:** v2.1. Legal name and name story confirmed by Ronidah on 24 Sep 2026. **Purpose, mission, vision, values, promise and tagline are a proposal awaiting approval by Ronidah and Sally** (approval message in Section 10). The logo brief goes to the designer only after that approval.
+**Status:** v2.2. Values, key messages and the approval message corrected to match the Export Company sales terms (partnership agreement, Section 5). Legal name and name story confirmed by Ronidah on 24 Sep 2026. **Purpose, mission, vision, values, promise and tagline are a proposal awaiting approval by Ronidah and Sally** (approval message in Section 10). The logo brief goes to the designer only after that approval.
 
 ---
 
@@ -59,7 +59,7 @@ The founders added a second half to this purpose: **the people who work with TIR
 
 Three commitments hidden in that sentence, and each one is measurable:
 1. *The right vehicle* → the customer's model, year, budget and spec, not whatever we have.
-2. *Proof before payment* → auction sheet, photos, inspection certificate, staged payments against documents.
+2. *Proof before payment* → the candidate vehicle's auction sheet and photos before the customer commits; the winning auction sheet, inspection certificate and shipping documents after; every payment to a licensed export company, against a document.
 3. *Every step to delivery* → milestone updates from auction to Mombasa gate.
 
 ---
@@ -81,7 +81,7 @@ Values only matter if the sales team can be judged against them on WhatsApp. Eac
 | Value | What it means in practice | What it forbids |
 |---|---|---|
 | **Transparency** | Every price is labelled (FOB, CFR Mombasa, estimated on-road). Every vehicle comes with its auction sheet and inspection report. Every delay is reported before the customer asks. | Unlabelled prices, "DM for price", hiding a lower auction grade, silence when a vessel is late. |
-| **Trust is earned with proof** | We show documents, deliveries, the office and the team. Deposit only after the auction is won in the customer's name; balance only against the Bill of Lading. | "Trust me", asking for money before evidence, stock claims for cars we have not checked that week. |
+| **Trust is earned with proof** | We show documents, deliveries, the office and the team. The customer sees the auction sheet and photos before deciding. Every payment goes to a licensed Japanese export company's account, never a personal account, and each payment is against a proforma or a shipping document. | "Trust me", asking for money without a proforma, promising refunds or warranties the export company does not give, stock claims for cars we have not checked that week. |
 | **Customer first, not car first** | We start from what the customer needs and their real budget, and we say honestly when a request does not make sense (for example a pre-2019 car). | Pushing a car because we have it, over-promising timelines, upselling beyond budget. |
 | **Reliability** | We answer within minutes in business hours. We do what we said, on the date we said. | Unanswered messages, missed follow-ups, changing terms after agreement. |
 | **An enjoyable journey** | Every milestone is a moment worth sharing: the auction win, the inspection pass, the vessel departing, the arrival. We send the photo before the customer asks for it. Handover is a small celebration, and the customer is invited to share it. | Treating the 45 days as dead time, dry status updates, disappearing after the balance is paid. |
@@ -89,6 +89,24 @@ Values only matter if the sales team can be judged against them on WhatsApp. Eac
 | **A happy team** | Clear roles, a fair share of the upside, and a process that lets Ronidah and Sally sell with confidence instead of improvising. Marketing gives sales what it needs; sales tells marketing what customers say. | Blame between marketing and sales; unrealistic promises made to customers that the team then has to defend. |
 
 A useful internal test for any message, post or ad: **"Would we be comfortable if the customer showed this to a lawyer and to their mother?"**
+
+### 5a. What we may promise (binding: Export Company terms, partnership agreement Section 5)
+
+| Topic | What we may say to customers (from the Export Company terms) | What we must never say |
+|---|---|---|
+| Price basis | "Price is CFR (or CIF) Mombasa in USD, all-inclusive: vehicle, inland transport in Japan, export documents, roadworthiness inspection, ocean freight and service fee." Extras are listed separately: auction negotiation USD 100, fixed-price purchase USD 150, remote-area transport USD 100 or more. Increases in Japan-side fees, freight or taxes are added. | A KES price, "no hidden fees", a price that is not labelled CFR/CIF. |
+| Who receives money | "All payments go to the licensed export company in Japan, to its company account, in USD. Never to a personal account or M-Pesa number." | Any account details before the proforma; any personal number. |
+| Deposit | "A deposit of at least 30% of the estimated price, and never less than USD 3,000, is paid to the export company before we start buying. The deposit secures the purchase." Before the deposit, the customer sees the auction sheet and photos of the candidate vehicle(s) and the proforma. | "Deposit only after the auction is won", "refundable deposit", "pay after arrival". |
+| Payment schedule | "At least 50% within 7 business days of the purchase date in Japan; the balance no later than 10 business days before the expected shipment date. For vehicles of JPY 5,000,000 or more: 50% before purchase, balance 10 business days before ETA." | "Balance after the Bill of Lading", "pay when the car arrives", installments. |
+| Late payment | "Late amounts attract a 6% per year penalty and stop further purchases and shipping. After 30 days unpaid the export company may cancel and resell, recovering all costs from the deposit." | Silence about this. Say it once, plainly, in the proforma stage. |
+| Cancellation after purchase | "If a customer cancels after purchase, the car is resold; the customer bears all costs plus a USD 500 handling fee and any resale taxes. Any refund is in USD after those deductions." | "Full refund", "cancel any time". |
+| Parking | "Shipment is within 30 days of purchase. From day 31 a parking fee of USD 5 per day applies if the delay is caused by the customer." | — |
+| Warranty and condition | "Vehicles are sold as-is. The auction sheet and the inspection report are the reference for condition." | "Guaranteed condition", "warranty", "accident-free" unless the auction sheet says so. |
+| Timeline | "Typically about 45 to 50 days from purchase to Mombasa (ESTIMATE); vessel schedules can change." | A fixed delivery date. |
+| Taxes and clearance | "KRA duty is calculated on the CRSP schedule, not our invoice. We give a written estimate; the final figure comes from KRA at clearance." | A fixed duty amount, "we handle clearance" (we guide; port charges, clearance and taxes are the customer's). |
+| Bank charges | "Bank charges are paid by the sender." | — |
+
+Any wording outside this table is a selling error, and under Section 8 of the partnership agreement the loss falls on TIRHON.
 
 ---
 
@@ -128,7 +146,7 @@ For Kenyan professionals and business owners who want a specific 2019-or-newer v
 
 **Key messages to repeat everywhere:**
 1. Tell us the model, year and budget. We check current Japan options for you.
-2. Deposit only after the auction is won in your name. Balance only after the Bill of Lading.
+2. Your payments go only to a licensed export company in Japan, in stages, each against a document. Never to a personal account.
 3. Auction sheet and inspection certificate before you pay.
 4. A team in Kenya you can meet, a buying partner in Japan who is at the auction.
 5. A written estimate of the real cost to the road, not just the Japan price.
@@ -139,6 +157,7 @@ For Kenyan professionals and business owners who want a specific 2019-or-newer v
 
 - **TIRHON AUTOS LTD** is the only brand the customer sees. Website, WhatsApp, social, invoices, signage, handover.
 - **The Japan buying partner** is described as exactly that, by role, and shown on camera as proof of the sourcing process. The partner's company name appears only in contracts and when a customer asks.
+- **The Export Company** (the licensed Japanese exporter that purchases, ships and receives all customer payments) does appear to customers: on the proforma and the bank details. That is a trust point, not something to hide: "your money goes to a licensed export company's account, never to a person." Its name is used only in those documents, not in the brand.
 - **Markato** never appears to customers. It is the marketing and investment partner.
 - **BestCars254 is not mixed with TIRHON in any way.** No shared photos, testimonials, delivery records, social accounts, phone numbers or wording.
 - **Founder proof.** Ronidah has personally imported vehicles from Japan many times. That experience is TIRHON's opening credibility and it is true, specific and hers: "Our founder has imported [N] vehicles from Japan herself. She built TIRHON to do it for you the way she wished someone had done it for her." Photos, documents (data blurred) and the lessons from those imports are the first proof library. The number N must be counted, not estimated, before it appears anywhere.
@@ -224,7 +243,7 @@ Design a wordmark-led identity for **TIRHON**, a Kenyan vehicle-sourcing company
 
 > *How we behave (Values)*
 > 1. Transparency: every price is labelled, every car comes with its auction sheet and inspection report, every delay is reported before the customer asks.
-> 2. Trust through proof: deposit only after the auction is won in the customer's name, balance only after the Bill of Lading. We show documents, not promises.
+> 2. Trust through proof: the customer sees the auction sheet and photos before deciding. Every payment goes to a licensed export company's account in Japan, never a personal account, and every payment is against a document. We show documents, not promises.
 > 3. Customer first: we start from what the customer needs and their real budget, and we say honestly when a request does not make sense.
 > 4. Reliability: we answer within minutes in business hours and do what we said, when we said.
 > 5. An enjoyable journey: every milestone (auction win, inspection, ship departs, arrival at Mombasa) is a moment we share with the customer. Handover is a small celebration.

@@ -2,7 +2,7 @@
 
 **Prepared by:** CMO / Growth (Markato side)
 **Date:** 24 September 2026
-**Status:** Version 1.1 — baseline plan. Legal name confirmed as TIRHON AUTOS LTD on 24 Sep 2026. Proof policy: only TIRHON's own sales are used as proof; BestCars254 is not referenced. To be revised weekly against real funnel data.
+**Status:** Version 1.2 — baseline plan. Aligned to the Export Company sales terms in the TIRHON–Markato partnership agreement (Section 5); see Appendix B. Legal name confirmed as TIRHON AUTOS LTD on 24 Sep 2026. Proof policy: only TIRHON's own sales are used as proof; BestCars254 is not referenced. To be revised weekly against real funnel data.
 
 ---
 
@@ -45,7 +45,7 @@ The biggest opportunity in the next 90 days is not a creative idea. It is **clos
 
 **What exists on the Japan side (from the Japan partner's existing sales process, VERIFIED internal; not referenced in TIRHON marketing):**
 
-- A working sales process: proforma → 30% deposit after the auction is won → auction sheet and photos → balance before shipping against the Bill of Lading → roughly 45 to 50 days from deposit to driving.
+- A licensed Export Company in Japan whose sales terms bind every deal (partnership agreement, Section 5): CFR or CIF Mombasa pricing in USD; deposit of at least 30% and never below USD 3,000 before purchase starts; at least 50% within 7 business days of purchase; balance no later than 10 business days before shipment; vehicles sold as-is with the auction sheet and inspection report as the reference. Roughly 45 to 50 days from purchase to Mombasa (ESTIMATE from past shipments). Full customer-facing rules in Appendix B.
 - Known objections, in order: price, delivery time, trust, payment terms.
 - Buyers shop three or more exporters at once. Response speed and photo quality win.
 - A registered Japan buying company and an established export routine.
@@ -88,7 +88,7 @@ In order of strength, each with the proof we need to make it believable.
 
 1. **"You choose the car. We source it live from Japan."** Custom sourcing beats browsing someone else's stock. Proof: screen recordings of auction searches for a real customer request (blur personal data).
 2. **"A company in Kenya you can meet, backed by a buying partner in Japan."** This is the trust bridge. Most exporters are either only in Japan or only a yard in Nairobi. Proof: office video, team on camera, Japan-side partner on camera.
-3. **"Pay in stages, against documents."** Deposit only after the auction is won in your name, balance only against the Bill of Lading. Proof: a one-page "How your money is protected" explainer and the actual document types shown on screen.
+3. **"Your money goes only to a licensed export company, never a personal account."** Payments are staged: a deposit to start the purchase, then the balance before shipment, each against a proforma or a shipping document. Proof: a one-page "How your money is protected" explainer showing the export company's role and the document at each step.
 4. **"Know the real cost before you commit."** A written landed-cost estimate including KRA duty on the CRSP basis, port charges and clearing. Proof: a worked example on the landing page, updated when KRA changes rates.
 5. **"Inspection report and auction sheet before you pay."** Proof: annotated auction sheet explainer content.
 6. **"We stay with you through Mombasa."** Clearance guidance and delivery coordination. Proof: port arrival photos, customer handover photos.
@@ -198,9 +198,9 @@ Search          → Japan side sends 2–4 options within 24h (Hot & Warm only)
     │
 Quote           → Proforma CFR Mombasa + written on-road estimate
     │
-Deposit         → 30% after auction win in customer's name
+Deposit         → at least 30% (never below USD 3,000) to the Export Company account before purchase starts
     │
-Purchase & Ship → Milestone updates on WhatsApp (auction sheet, inspection, B/L, vessel)
+Purchase & Ship → 50% within 7 business days of purchase; balance 10 business days before shipment; milestone updates (auction sheet, inspection, B/L, vessel)
     │
 Mombasa         → Clearance guidance, delivery
     │
@@ -221,13 +221,13 @@ One page. Mobile first. Target load under 3 seconds on a mid-range Android on Sa
 
 | Section | Content | Conversion job |
 |---|---|---|
-| **Hero** | Headline: *Import your next car from Japan, with a team in Kenya.* Sub: *Tell us the model, year and budget. We check current Japan options and guide you to Mombasa.* CTA 1: **Get Vehicle Options on WhatsApp**. CTA 2: **Request options by form**. Trust strip: "Kenya office · Japan buying partner · Deposit only after auction win". | Clarify offer, primary CTA above the fold. |
-| **How it works** | 6 steps with icons: Tell us → We search → You choose → Deposit after win → Purchase & ship (~45 days) → Mombasa support. | Reduce fear of the unknown. |
+| **Hero** | Headline: *Import your next car from Japan, with a team in Kenya.* Sub: *Tell us the model, year and budget. We check current Japan options and guide you to Mombasa.* CTA 1: **Get Vehicle Options on WhatsApp**. CTA 2: **Request options by form**. Trust strip: "Kenya office · Japan buying partner · Payments only to a licensed export company". | Clarify offer, primary CTA above the fold. |
+| **How it works** | 6 steps with icons: Tell us → We search → You choose → Deposit secures the purchase → Purchase, inspection & shipping (~45 days) → Mombasa support. | Reduce fear of the unknown. |
 | **What it really costs** | A worked example: 2020 Toyota Harrier, showing FOB, freight & insurance (CFR), KRA duties on CRSP, port & clearing, on-road total. Clearly dated. Link to KRA. | Handle the number-one objection before WhatsApp. |
 | **Popular vehicles** | 6 cards: Prado, Harrier, RAV4, CX-5, Forester, X-Trail. Each: "typical 2019+ Japan price range: on request" (no fake prices), one-line why Kenyans buy it, CTA "Search this model". | Let the buyer self-select; feed model-level intent to WhatsApp. |
 | **Why TIRHON** | Kenya office (photo + map), Japan sourcing access, staged payments, inspection certificate before payment, on-road estimate in writing, Mombasa support. | Differentiation. |
 | **Proof** | 3 customer testimonials (video preferred), delivery photos, document samples (auction sheet, inspection certificate, B/L) with data blurred. | Belief. |
-| **FAQ** | Deposit, payment security, how long, who clears, 8-year rule, inspection, what if the auction is lost, can I visit the office, financing. | Objection handling; also SEO. |
+| **FAQ** | Deposit and payment schedule (Appendix B wording), where the money goes, how long, who clears, 8-year rule, inspection, what if the auction is lost, cancellation costs, as-is condition, can I visit the office, financing. | Objection handling; also SEO. |
 | **Final CTA** | Repeat hero CTA. "Tell us your budget and preferred model." | Convert scrollers. |
 | **Footer** | Company registration, physical address, phone, email, hours, privacy note. | Legitimacy. |
 
@@ -368,7 +368,7 @@ Google is where the highest-intent buyer is. Start small, start now.
 **Sequence (each ad runs to a person for ~7 days, then the next):**
 1. **Trust:** office and team video. "This is who you are talking to."
 2. **Proof:** customer delivery / testimonial.
-3. **Education:** "How your money is protected: deposit after auction win, balance against Bill of Lading."
+3. **Education:** "How your money is protected: staged payments to a licensed export company, each against a document."
 4. **Cost clarity:** "What a 2020 Harrier really costs on the road" walkthrough.
 5. **Options:** "Vehicles we checked this week" carousel.
 6. **Direct CTA:** "Ready for your search? Send us model, year and budget."
@@ -433,7 +433,7 @@ Each with hook and funnel stage.
 5. **"How to read a Japanese auction sheet in 60 seconds."** Annotated sheet. *Consideration.*
 6. **"How we verify mileage before you pay."** Auction sheet + inspection certificate. *Objection.*
 7. **"What if I pay and the car never arrives?"** The staged-payment explainer. *Objection.*
-8. **"Deposit only after the auction is won in your name. Here's why."** *Objection.*
+8. **"Where your deposit goes: a licensed export company's account in Japan, never a personal number."** *Objection.*
 9. **"This is the TIRHON office in Nairobi. Come and meet us."** Walkthrough. *Trust.*
 10. **"Meet our Japan buying partner."** Short intro from the Japan side, auction hall if possible. *Trust.*
 11. **"Day 1 to Day 45: where your car is each week."** Timeline animation. *Consideration.*
@@ -479,7 +479,7 @@ Email is secondary to WhatsApp in Kenya but valuable for Warm and Cold leads, di
 **New-lead sequence (6 emails over 14 days):**
 1. Day 0: *Welcome, here is how a TIRHON search works* + what to expect on WhatsApp.
 2. Day 2: *How importing from Japan works in 2026* (8-year rule, inspection, timeline).
-3. Day 4: *How we verify condition before you pay* (auction sheet, inspection certificate).
+3. Day 4: *How we verify condition and where your money goes* (auction sheet, inspection certificate, licensed export company).
 4. Day 7: *Popular 2019+ SUVs for Kenya and what they typically cost on the road* (dated ESTIMATES).
 5. Day 10: *A customer's story* (video).
 6. Day 14: *Ready for your personalised search?* One CTA to WhatsApp.
@@ -522,7 +522,7 @@ Reported weekly. Targets are ESTIMATES to be reset after 30 days of real data.
 | Sales | Options-sent rate (of qualified) within 24h | > 90% |
 | Sales | Quote rate (of qualified) | > 50% |
 | Sales | Deposit rate (of quoted) | > 10% (to be validated) |
-| Money | Cost per qualified lead, cost per deposit, cost per sale | baseline month 1 |
+| Money | Cost per qualified lead, cost per deposit, cost per sale | baseline month 1; cost per sale ceiling ESTIMATE 30% of average markup |
 | Money | Gross profit from marketing-attributed sales ÷ marketing spend | > 3× by day 90 |
 | Organic | WhatsApp clicks from profile/links, video 50% views | baseline |
 | Reputation | Google reviews count and rating | 10 reviews, 4.8+ by day 90 |
@@ -536,19 +536,26 @@ Reported weekly. Targets are ESTIMATES to be reset after 30 days of real data.
 Non-negotiable before paid spend starts.
 
 1. **Meta Business Suite:** Pixel on the landing page; Conversions API via the site platform; WhatsApp Business number connected to the Facebook Page so click-to-WhatsApp conversations are attributed.
-2. **Campaign codes in pre-filled WhatsApp messages:** every ad, post, Status and email link opens WhatsApp with a code (e.g. `[META-PRADO-01]`). The sales agent copies the code into the CRM. Low-tech and it works.
-3. **UTM parameters** on every link off-Meta; captured into hidden form fields.
-4. **GA4** with events: whatsapp_click, form_submit, call_click. Google Ads conversion import from GA4.
-5. **CRM fields** for source/campaign/ad on every lead (section 11).
-6. **Weekly reconciliation:** Meta reported conversations vs CRM logged leads. If the gap is over 15%, fix logging before optimising.
-7. **Response-time logging:** first-reply timestamp on every lead.
-8. **Consent:** the auto-reply states we may contact them about vehicle options; customer-list uploads to Meta use only leads who did not object.
+2. **Official WhatsApp Business number:** registered and controlled by Markato, operated by TIRHON, per Section 6 of the partnership agreement. Every customer conversation happens on this number only.
+3. **Campaign codes in pre-filled WhatsApp messages:** every ad, post, Status and email link opens WhatsApp with a code (e.g. `[META-PRADO-01]`). The sales agent copies the code into the CRM. Low-tech and it works.
+4. **UTM parameters** on every link off-Meta; captured into hidden form fields.
+5. **GA4** with events: whatsapp_click, form_submit, call_click. Google Ads conversion import from GA4.
+6. **CRM fields** for source/campaign/ad on every lead (section 11).
+7. **Weekly reconciliation:** Meta reported conversations vs CRM logged leads. If the gap is over 15%, fix logging before optimising.
+8. **Response-time logging:** first-reply timestamp on every lead.
+9. **Consent:** the auto-reply states we may contact them about vehicle options; customer-list uploads to Meta use only leads who did not object.
 
 ---
 
 ## 23. Recommended marketing budget allocation
 
 You have not given me a budget number yet. Below is the allocation logic and two worked examples (ESTIMATES).
+
+**Economics fixed by the partnership agreement (VERIFIED, agreement Sections 3, 4 and 6):**
+- Profit per vehicle = customer price minus Export Company price, split 50/50.
+- Minimum markup USD 1,000 per vehicle, so the floor is USD 500 to each side.
+- Markato pays all advertising for the first 60 days or first 20 vehicles; after that, advertising is deducted from total profit before the split.
+- Consequence: after the investment period, every USD of ad spend is paid half by each side. At a USD 1,000 markup, a cost per sale above roughly USD 300 leaves little for anyone (ESTIMATE). The marketing plan therefore targets higher-value SUVs where the markup can sit well above the floor, and the Kenya side should price above the minimum wherever the market allows.
 
 **Allocation principles:**
 - Month 1 is a testing budget. Its job is data, not sales volume.
@@ -657,7 +664,27 @@ If we do only these five, we will know within 30 days whether the offer converts
 - A4. Competitor set: BE FORWARD Kenya page; SBT Japan blog "Procedure for Importing a Car from Japan to Kenya"; Car From Japan Kenya page; AA Japan Kenya; carimports.co.ke; carimports254.co.ke; carskenya.co.ke; maridadymotors.com; khushimotors.com; auto-kenya.com.
 - Internal: the Japan side's existing WhatsApp sales process (payment stages, timeline, objection set). Used for process design only; not referenced in TIRHON marketing.
 
-## Appendix B — Open questions for TIRHON (answer these and I will update the plan)
+## Appendix B — Customer-facing rules derived from the Export Company terms
+
+Source: TIRHON–Markato Sourcing & Sales Partnership Agreement, Section 5. Every ad, page, email and WhatsApp message must stay inside this table.
+
+| Topic | What we may say to customers (from the Export Company terms) | What we must never say |
+|---|---|---|
+| Price basis | "Price is CFR (or CIF) Mombasa in USD, all-inclusive: vehicle, inland transport in Japan, export documents, roadworthiness inspection, ocean freight and service fee." Extras are listed separately: auction negotiation USD 100, fixed-price purchase USD 150, remote-area transport USD 100 or more. Increases in Japan-side fees, freight or taxes are added. | A KES price, "no hidden fees", a price that is not labelled CFR/CIF. |
+| Who receives money | "All payments go to the licensed export company in Japan, to its company account, in USD. Never to a personal account or M-Pesa number." | Any account details before the proforma; any personal number. |
+| Deposit | "A deposit of at least 30% of the estimated price, and never less than USD 3,000, is paid to the export company before we start buying. The deposit secures the purchase." Before the deposit, the customer sees the auction sheet and photos of the candidate vehicle(s) and the proforma. | "Deposit only after the auction is won", "refundable deposit", "pay after arrival". |
+| Payment schedule | "At least 50% within 7 business days of the purchase date in Japan; the balance no later than 10 business days before the expected shipment date. For vehicles of JPY 5,000,000 or more: 50% before purchase, balance 10 business days before ETA." | "Balance after the Bill of Lading", "pay when the car arrives", installments. |
+| Late payment | "Late amounts attract a 6% per year penalty and stop further purchases and shipping. After 30 days unpaid the export company may cancel and resell, recovering all costs from the deposit." | Silence about this. Say it once, plainly, in the proforma stage. |
+| Cancellation after purchase | "If a customer cancels after purchase, the car is resold; the customer bears all costs plus a USD 500 handling fee and any resale taxes. Any refund is in USD after those deductions." | "Full refund", "cancel any time". |
+| Parking | "Shipment is within 30 days of purchase. From day 31 a parking fee of USD 5 per day applies if the delay is caused by the customer." | — |
+| Warranty and condition | "Vehicles are sold as-is. The auction sheet and the inspection report are the reference for condition." | "Guaranteed condition", "warranty", "accident-free" unless the auction sheet says so. |
+| Timeline | "Typically about 45 to 50 days from purchase to Mombasa (ESTIMATE); vessel schedules can change." | A fixed delivery date. |
+| Taxes and clearance | "KRA duty is calculated on the CRSP schedule, not our invoice. We give a written estimate; the final figure comes from KRA at clearance." | A fixed duty amount, "we handle clearance" (we guide; port charges, clearance and taxes are the customer's). |
+| Bank charges | "Bank charges are paid by the sender." | — |
+
+Any wording outside this table is a selling error, and under Section 8 of the partnership agreement the loss falls on TIRHON.
+
+## Appendix C — Open questions for TIRHON (answer these and I will update the plan)
 
 1. What is the exact Kenya office address and can it be published?
 2. Current monthly marketing budget?
